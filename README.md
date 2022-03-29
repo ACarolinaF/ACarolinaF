@@ -1,9 +1,9 @@
 ### Hi 👋 I'm Carolina Fernandes, Economist, and Full Stack Developer. 
 
 
-You can contact me through:
-[LinkedIn](linkedin.com/in/ana-carolina-fernandes-economist-developer)
-[Email](fernandes.carolina.ana@gmail.com)
+💬 You can contact me through:
+- [LinkedIn](linkedin.com/in/ana-carolina-fernandes-economist-developer)
+- [Email](fernandes.carolina.ana@gmail.com)
 
 
 
