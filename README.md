@@ -7,7 +7,7 @@
 
 
 
-Technologies:
+🛠 Languages, Tools & Technologies:
 
 ✔️ JavaScript
 ✔️ React
