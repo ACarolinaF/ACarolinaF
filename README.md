@@ -9,13 +9,13 @@
 ## 👍I wish to integrate different interests such as logic and spirituality, philosophy and psychology with technology and artificial intelligence.
 
 
-###💬 You can **contact** me through:
+### 💬 You can **contact** me through:
 - [LinkedIn](linkedin.com/in/ana-carolina-fernandes-economist-developer)
 - [Email](fernandes.carolina.ana@gmail.com)
 
 
 
-###🛠 Languages, Tools & Technologies:
+### 🛠 Languages, Tools & Technologies:
 
 ✔️ JavaScript
 ✔️ React
